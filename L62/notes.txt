@@ -1,0 +1,26 @@
+* Tree is type of non-linear data structure.
+* One node can be linked to multiple nodes.
+
+Node: An element or entity of a tree.
+Root node: The top node of a tree.
+Child node: A descendant of any node.
+Parent node: A node which is a predecessor of any node.
+Sibling node: Nodes which have common parent node.
+Ancestor node: Either the parent of the node or the parent of some ancestor of the node.
+Descendant node: Either a child of the node or a child of some descendant of the node.
+Leaf node: A node that does not have any child node.
+
+Node structure:
+    node {
+        int data;
+        list <node*> child;
+    }
+
+Binary tree: A tree whose nodes can have maximum two children.
+Height of the tree: Longest path between root node and leaf node.
+Diameter or Width of a tree: The number of nodes on the longest path between 2 end nodes.
+
+Traversal Types:
+1. In-order: LNR
+2. Post-order: LRN
+3. Pre-order: NLR

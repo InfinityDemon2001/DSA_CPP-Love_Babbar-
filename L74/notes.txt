@@ -1,0 +1,7 @@
+* Heap is a type of data structure which is a complete binary tree that comes witha heap order property.
+* CBT:
+  -> Every level is completely filled except the last level.
+  -> Nodes always added from the left / lean towards the left.
+* Heap order property:
+  1. Max Heap: Leaf nodes are smaller than root nodes.
+  2. Min Heap: Leaf nodes are greater than root nodes.

@@ -1,0 +1,1 @@
+* Spanning Tree: It is a subgraph of an undirected connected graph. It includes all the vertices in the subgraph and the least number of edges that can connect every vertex without forming a loop or cycle. The spanning tree must have an equal number of vertices as of the given graph.
