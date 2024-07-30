@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 
 // Method 1: Simple for loop
-int maxProfit(vector<int>& prices) {
+int maxProfit(vector<int> &prices) {
     int maxi = 0, mini = INT_MAX;
     
     for(int i = 0; i < prices.size(); i ++) {
