@@ -1,3 +1,5 @@
+#include <bits/stdc++.h>
+
 vector<int> nextSmallerElement(vector<int> &arr, int n) {
     stack<int> s;
     s.push(-1);
