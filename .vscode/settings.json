@@ -65,6 +65,7 @@
     "chrono": "cpp",
     "random": "cpp",
     "limits": "cpp",
-    "valarray": "cpp"
+    "valarray": "cpp",
+    "string": "cpp"
   }
 }
